@@ -53,6 +53,3 @@ def play_game():
         print(" Computer wins overall!")
     else:
         print(" Game ended in a tie!")
-
-if __name__ == "__main__":
-    play_game()
